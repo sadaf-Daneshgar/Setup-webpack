@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  color: blueviolet;
+  margin: 100px  600px;
+}
+
+h1:hover {
+  color: black;
+}
